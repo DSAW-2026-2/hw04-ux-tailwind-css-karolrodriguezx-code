@@ -2,6 +2,7 @@
 
 **Week 4 · DSAW · Universidad de La Sabana**
 
+KAROL DAYANNE RODRIGUEZ GONZALEZ: https://dsaw-2026-2.github.io/hw04-ux-tailwind-css-karolrodriguezx-code/
 ## Objective
 
 Create complete wireframes for your project in Figma and rebuild the landing page with Tailwind CSS, including a working dark mode toggle.
